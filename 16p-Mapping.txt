@@ -1,0 +1,46 @@
+Content
+It contains the questions from the 16 Personality Tests and their answers in the Scale that they use but is numerically encoded:
+
+Fully Agree: 3
+Partially Agree: 2
+Slightly Agree: 1
+neutral -> 0
+Slightly disagree: -1
+Partially disagree: -2
+Fully disagree: -3
+
+Mapping followed in the dataset
+
+0	ESTJ
+1	ENTJ
+2	ESFJ
+3	ENFJ
+4	ISTJ
+5	ISFJ
+6	INTJ
+7	INFJ
+8	ESTP
+9	ESFP
+10	ENTP
+11	ENFP
+12	ISTP
+13	ISFP
+14	INTP
+15	INFP
+
+ESTJ - The Supervisor
+ENTJ - The Commander 
+ESFJ - The Provider 
+ENFJ - The Giver
+ISTJ - The Inspector
+ISFJ - The Nurturer 
+INTJ - The Mastermind
+INFJ - The Counselor
+ESTP - The Doer
+ESFP - The Performer
+ENTP - The Visionary
+ENFP - The Champion 
+ISTP - The Craftsman
+ISFP - The Composer 
+INTP - The Thinker 
+INFP - The Idealist 
